@@ -1,0 +1,9 @@
+config BR2_PACKAGE_PYTHON_FLASK_MAIL
+	bool "python-flask-mail"
+	# runtime dependency
+	select BR2_PACKAGE_PYTHON_FLASK
+	select BR2_PACKAGE_PYTHON_BLINKER
+	help
+	  A Flask extension for sending email messages.
+
+	  https://github.com/mattupstate/flask-mail

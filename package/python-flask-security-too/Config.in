@@ -1,0 +1,15 @@
+config BR2_PACKAGE_PYTHON_FLASK_SECURITY_TOO
+	bool "python-flask-security-too"
+	# runtime dependency
+	select BR2_PACKAGE_PYTHON_FLASK
+	select BR2_PACKAGE_PYTHON_FLASK_LOGIN
+	select BR2_PACKAGE_PYTHON_FLASK_PRINCIPAL
+	select BR2_PACKAGE_PYTHON_FLASK_WTF
+	select BR2_PACKAGE_PYTHON_EMAIL_VALIDATOR
+	select BR2_PACKAGE_PYTHON_ITSDANGEROUS
+	select BR2_PACKAGE_PYTHON_PASSLIB
+	help
+	  Flask-Security-Too allows you to quickly add common security 
+          mechanisms to your Flask application.
+
+          https://github.com/Flask-Middleware/flask-security/
