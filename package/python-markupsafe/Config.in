@@ -1,7 +1,6 @@
 config BR2_PACKAGE_PYTHON_MARKUPSAFE
 	bool "python-markupsafe"
 	help
-	  MarkupSafe implements a XML/HTML/XHTML Markup safe string
-	  for Python.
+	  Safely add untrusted strings to HTML/XML markup.
 
-	  https://github.com/mitsuhiko/markupsafe
+	  https://palletsprojects.com/p/markupsafe/

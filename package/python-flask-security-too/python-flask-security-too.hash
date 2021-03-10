@@ -1,3 +1,5 @@
-# From https://pypi.org/project/Flask-Security-Too/#copy-hash-modal-67f5e49b-ad89-4227-8555-1ae4399aa567
-md5  e0c43f4406beff47bb83da986e412b7e Flask-Security-Too-4.0.0.tar.gz
-sha256  4aa0a076fe0faabf01017d727e81fce0800170ce1cbf01534d16549fa6464d87 Flask-Security-Too-4.0.0.tar.gz
+# md5, sha256 from https://pypi.org/pypi/Flask-Security-Too/json
+md5  e0c43f4406beff47bb83da986e412b7e  Flask-Security-Too-4.0.0.tar.gz
+sha256  4aa0a076fe0faabf01017d727e81fce0800170ce1cbf01534d16549fa6464d87  Flask-Security-Too-4.0.0.tar.gz
+# Locally computed sha256 checksums
+sha256  20ff964594078e55b52ac64f1b06b769381e9811e67edcdf4cc88f01de5db3e1  LICENSE

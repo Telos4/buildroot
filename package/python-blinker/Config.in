@@ -1,8 +1,6 @@
 config BR2_PACKAGE_PYTHON_BLINKER
 	bool "python-blinker"
-        depends on BR2_PACKAGE_PYTHON3
 	help
-	  Blinker provides fast & simple object-to-object 
-          and broadcast signaling for Python objects.
+	  Fast, simple object-to-object and broadcast signaling.
 
-	  https://github.com/jek/blinker
+	  http://pythonhosted.org/blinker/

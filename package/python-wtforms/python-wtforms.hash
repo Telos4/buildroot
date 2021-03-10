@@ -1,4 +1,4 @@
-# md5, sha256 from https://pypi.org/pypi/wtforms/json
+# md5, sha256 from https://pypi.org/pypi/WTForms/json
 md5  2b6ea167a71c6becf20f0934417fd06c  WTForms-2.3.3.tar.gz
 sha256  81195de0ac94fbc8368abbaf9197b88c4f3ffd6c2719b5bf5fc9da744f3d829c  WTForms-2.3.3.tar.gz
 # Locally computed sha256 checksums
