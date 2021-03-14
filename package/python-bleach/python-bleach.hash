@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/bleach/json
+md5  0a9d302444b252e7adb2fda175be22d6  bleach-3.3.0.tar.gz
+sha256  98b3170739e5e83dd9dc19633f074727ad848cbedb6026708c8ac2d3b697a433  bleach-3.3.0.tar.gz
+# Locally computed sha256 checksums
+sha256  bec2238c149a632b8fb26813f687aceabab80327f3270769c2c16157883d3130  LICENSE
