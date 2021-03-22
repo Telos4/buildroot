@@ -1,0 +1,6 @@
+# md5, sha256 from https://pypi.org/pypi/ldap3/json
+md5  c2e381d2ae7a07229f0bf4946750c3ac  ldap3-2.9.tar.gz
+sha256  18c3ee656a6775b9b0d60f7c6c5b094d878d1d90fc03d56731039f0a4b546a91  ldap3-2.9.tar.gz
+# Locally computed sha256 checksums
+sha256  996f83a099a509bf1d561787dd68130574fa691a0f20f73c1385a71d6c6942d5  COPYING.txt
+sha256  5d7e57549f226a6d8f03b5095b7ba8dfb2ffc7e5fa79220fe65a3854c77159b0  LICENSE.txt
