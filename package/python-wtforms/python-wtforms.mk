@@ -12,3 +12,4 @@ PYTHON_WTFORMS_LICENSE = FIXME: please specify the exact BSD version
 PYTHON_WTFORMS_LICENSE_FILES = LICENSE.rst docs/license.rst
 
 $(eval $(python-package))
+$(eval $(host-python-package))
