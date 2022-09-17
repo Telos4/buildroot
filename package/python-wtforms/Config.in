@@ -2,7 +2,6 @@ config BR2_PACKAGE_PYTHON_WTFORMS
 	bool "python-wtforms"
 	select BR2_PACKAGE_PYTHON_MARKUPSAFE # runtime
 	help
-	  A flexible forms validation and rendering library for
-	  Python web development.
+	  Form validation and rendering for Python web development.
 
 	  https://wtforms.readthedocs.io/
