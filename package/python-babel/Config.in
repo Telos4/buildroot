@@ -2,7 +2,6 @@ config BR2_PACKAGE_PYTHON_BABEL
 	bool "python-babel"
 	select BR2_PACKAGE_PYTHON_PYTZ # runtime
 	help
-	  A collection of tools for internationalizing Python
-	  applications.
+	  Internationalization utilities.
 
-	  http://babel.pocoo.org/en/latest/
+	  https://babel.pocoo.org/
