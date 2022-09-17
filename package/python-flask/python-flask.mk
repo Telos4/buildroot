@@ -12,3 +12,4 @@ PYTHON_FLASK_LICENSE = FIXME: please specify the exact BSD version
 PYTHON_FLASK_LICENSE_FILES = LICENSE.rst examples/javascript/LICENSE.rst examples/tutorial/LICENSE.rst docs/license.rst artwork/LICENSE.rst
 
 $(eval $(python-package))
+$(eval $(host-python-package))
