@@ -1,7 +1,8 @@
 config BR2_PACKAGE_PYTHON_FLASK_LOGIN
 	bool "python-flask-login"
 	select BR2_PACKAGE_PYTHON_FLASK # runtime
+	select BR2_PACKAGE_PYTHON_WERKZEUG # runtime
 	help
-	  User session management for Flask.
+	  User authentication and session management for Flask.
 
 	  https://github.com/maxcountryman/flask-login
